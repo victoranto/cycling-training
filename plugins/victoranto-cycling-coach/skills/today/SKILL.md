@@ -14,7 +14,8 @@ The point of this command is to **show the plan, not to invent a new session eve
 1. Check that nothing has been completed today already (completed activities for today's date). If a session is already done, say so and offer `/analyze` instead.
 2. Read today's planned events from the calendar (Stas / Intervals.icu).
 3. If there is no calendar, use the week planned with `/plan-week` in this Project or memory.
-4. **If nothing is planned:** say so plainly. Offer to plan today (a short proposal) or the week (`/plan-week`). Do not silently make up a session and present it as the plan.
+4. **If the profile says the athlete is off the bike:** show the planned alternative session (run, gym, swim...) the same way. If nothing is planned, propose one from the sports they can do. If the planned end date has passed, ask whether they are back on the bike and offer to update the profile.
+5. **If nothing is planned:** say so plainly. Offer to plan today (a short proposal) or the week (`/plan-week`). Do not silently make up a session and present it as the plan.
 
 ## 2. Check whether the plan still fits
 

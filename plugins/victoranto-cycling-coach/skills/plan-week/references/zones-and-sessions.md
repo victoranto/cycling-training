@@ -62,6 +62,8 @@ Flag a re-evaluation when any of these happens:
 - large weight change, long break or illness;
 - the trainer app's FTP does not match the reference (indoor sessions feel off).
 
+A missed or postponed test moves to the next fresh day; until it is done, FTP stays provisional. Do not schedule a test during time off the bike or on the first rides back.
+
 Protocols: 20-min test (FTP ≈ 95 % of the average), ramp test (≈ 75 % of best 1-min power), or an estimate from recent data. Test rested, after a deload or two easy days. Remind the athlete to update FTP in every app.
 
 Treat the result as a reference: at group level the 20-min FTP lines up with threshold, but for individuals the error is wide, and many riders cannot hold it for a full hour. If threshold intervals at the new FTP fail repeatedly, adjust.
@@ -74,3 +76,17 @@ Treat the result as a reference: at group level the 20-min FTP lines up with thr
 - **Swimming:** easy swimming works as active recovery; hard swim training counts as load.
 - **Running, hiking, trail:** count their load (HR/RPE); running adds impact, so be careful the day before key sessions.
 - If a week has a lot of non-bike load, cut bike volume, not the other way round, and never at the cost of the key bike session.
+
+## Off the bike and coming back
+
+While the athlete is off the bike:
+- Keep aerobic work going with the sports available (running, swimming, hiking, elliptical, rowing) and count their load by HR and RPE.
+- A sport with little recent history progresses conservatively: duration before intensity, mostly easy, controlled by RPE or the talk test. Running adds impact, so start with short easy runs or run-walk and build gradually.
+- Strength keeps going (it often has more room now), with the profile's limitations first.
+- No bike tests or bike intervals are planned for this period.
+
+Coming back to the bike:
+- The first few rides are easy (Z1-Z2) and shorter than before the break.
+- Quality bike sessions return once the easy rides feel normal (RPE as expected for the watts, HR not drifting).
+- Test FTP after 2-3 easy rides, not on the first ride back. After several weeks away, expect FTP to be lower: use RPE and a conservative FTP for any intervals until the test.
+- When the planned end date of the break has passed, ask whether the athlete is back on the bike and update the profile.

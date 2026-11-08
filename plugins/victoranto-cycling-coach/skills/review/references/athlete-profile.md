@@ -11,7 +11,9 @@ Look for it in this order:
 
 If no profile exists, or key fields are missing for what was asked (FTP, availability, A race), say so in one line and offer `/setup`. For a quick question you can still help with what you have, stating what you assumed.
 
-When values change (new FTP, new weight, new race, different availability), update the profile: save it to memory if memory is available, and give the athlete the updated block to paste into the Project instructions. Always use the most recent FTP and weight.
+When values change (new FTP, new weight, new race, different availability), update the profile: save it to memory if memory is available, and give the athlete the updated block to paste into the Project instructions. Always use the most recent FTP. For weight, use a recent average, not a single reading (see `data-sources.md`).
+
+If the profile exists in more than one place (Project instructions, memory, a document) and the copies disagree, for example two different goals for the same race, do not pick one silently. Ask the athlete which is right, then update every copy.
 
 ## Profile template
 
@@ -32,7 +34,8 @@ Updated: YYYY-MM-DD
 - Riding experience: … years · longest event: …
 
 **Performance**
-- FTP: … W (method: 20' test | ramp | app estimate | unknown · date: …) · W/kg: …
+- FTP: … W (method: 20' test | ramp | app estimate | unknown · date: … · status: tested | provisional) · W/kg: …
+- Next FTP test: … (if planned)
 - Max HR / threshold HR: … (or unknown)
 - Zones: Coggan default | own zones in Intervals/Strava
 
@@ -54,8 +57,15 @@ Updated: YYYY-MM-DD
 **Other activities**
 - … (what, how often, which days) · coach programs them | coach only fits them in
 
+**Current status** (optional, temporary; remove when it ends)
+- Off the bike: from … to … (or open-ended) · doing instead: running | gym | swimming | hiking | …
+
 **Connected sources**
 - Strava: yes/no · Stas (Intervals.icu): yes/no · Garmin: via Strava/Intervals sync
 ```
 
 A wrist HR sensor is less reliable on the bike: when the profile says wrist, lean more on RPE and power.
+
+FTP status is **provisional** when it comes from an app estimate, an old test or a guess. Keep it marked provisional until a test is done, and plan one (`zones-and-sessions.md`).
+
+The reason for time off the bike is optional. Never ask for medical details; if the athlete mentions pain or injury, the "not a doctor" rule in `coaching-principles.md` applies.

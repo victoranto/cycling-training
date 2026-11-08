@@ -16,7 +16,7 @@ Read `references/coaching-principles.md`, `references/athlete-profile.md`, `refe
 ## 2. What to analyze
 
 1. **Volume and load:** hours, distance, elevation and load per week; fitness and fatigue trend (CTL/ATL/TSB or equivalent) vs the previous period. Load models are context, not verdicts.
-2. **Compliance:** planned vs done, which sessions were skipped or changed, and any pattern (always the same weekday, always the hard session, always after long work days).
+2. **Compliance:** planned vs done, which sessions were skipped or changed, and any pattern (always the same weekday, always the hard session, always after long work days). If the period included time off the bike, judge it against the alternative plan, not against bike volume, and compare bike numbers with that in mind.
 3. **Intensity distribution:** time per zone and whether it fits the phase (base, build, specific).
 4. **Performance:** best 5, 20 and 60-min power vs the previous period; W/kg with current weight; whether the FTP needs re-evaluating.
 5. **Durability:** on the long rides, power and HR in the final hour vs the early hours, and how that changed over the period. This matters most for ultra-distance goals.

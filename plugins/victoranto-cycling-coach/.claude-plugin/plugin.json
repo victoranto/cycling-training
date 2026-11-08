@@ -1,7 +1,7 @@
 {
   "name": "victoranto-cycling-coach",
   "displayName": "Cycling Training",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A personal cycling coach for road, gravel and ultra-distance riders. Sets up your athlete profile and races, plans your week around the bike and your other sports, shows today's session with fueling, analyzes rides, plans race fueling and reviews your month, using Strava and Intervals.icu (via Stas) when connected.",
   "author": {
     "name": "Victor Gonzalez",

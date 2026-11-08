@@ -16,13 +16,14 @@ Read `references/coaching-principles.md`, `references/athlete-profile.md`, `refe
 
 ## 2. Decide
 
+0. **Off the bike?** If the profile has a current off-bike period that covers the week, plan it with the sports available and the rules in `zones-and-sessions.md` (Off the bike and coming back). If the period ends this week, plan the return rides.
 1. **Where the week sits:** base, build, specific, deload, taper or race week, relative to the A race and any B/C races in or near the week. For a race-containing week, explicitly choose no taper / light taper / full taper from the race priority (see `zones-and-sessions.md`).
 2. **Deload check:** 3-4 loading weeks done, or persistent fatigue signals → deload, and say why.
 3. **Key sessions:** pick 1-2 quality bike sessions (and the long ride). Everything else is Z2, strength/mobility, other activities or rest.
 4. **Progression:** load roughly +5-10 % on a loading week, and never raise volume and intensity together without saying why.
 5. **Other activities:** place them with the rules in `zones-and-sessions.md` (no heavy legs the day before the key session or long ride; easy swim as recovery). If the athlete wants them programmed, give their sessions too; otherwise just place them.
 6. **Fit reality:** if not everything fits, cut Z2 before the key session, and the key session before rest.
-7. **FTP:** if a test is due (`zones-and-sessions.md`), include it on a fresh day.
+7. **FTP:** if a test is due or FTP is provisional (`zones-and-sessions.md`), include it on a fresh day, never during time off the bike or on the first rides back. If a planned test was missed, move it to the next fresh day.
 
 ## 3. Output
 
