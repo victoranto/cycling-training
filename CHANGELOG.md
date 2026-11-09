@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 - 2026-11-09
+
+- New `/guide` command: lists what the coach can do with one line per command and suggests where to start based on the profile (no profile, time off, upcoming race). The list lives in `shared/commands.md`.
+
 ## 0.1.4 - 2026-11-09
 
 - New `/time-off` command: registers, changes and closes a period off the bike (travel, break, no bike, injury or illness), checks what it affects (calendar, B/C races, FTP test), asks before planning, and plans the return. Injuries are planned only inside the restrictions the athlete reports from their professional.
