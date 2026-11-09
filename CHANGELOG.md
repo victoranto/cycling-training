@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.4 - 2026-11-09
+
+- New `/time-off` command: registers, changes and closes a period off the bike (travel, break, no bike, injury or illness), checks what it affects (calendar, B/C races, FTP test), asks before planning, and plans the return. Injuries are planned only inside the restrictions the athlete reports from their professional.
+- `/setup` no longer collects time off; it points to `/time-off`.
+- A break can be closed from `/time-off`, `/today` or `/plan-week` (by saying it is over, or when the end or check-in date passes).
+
 ## 0.1.3 - 2026-11-06
 
 - Time off the bike: optional profile status; `/plan-week` and `/today` plan with the sports available, progress new sports conservatively, and plan the return to the bike.

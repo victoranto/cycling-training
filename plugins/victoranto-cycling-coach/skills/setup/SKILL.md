@@ -1,6 +1,6 @@
 ---
 name: setup
-description: First-time setup and profile updates for the Cycling Training coach. Checks connected data sources (Strava, Stas/Intervals.icu, Garmin), then builds the athlete profile step by step - language, units, FTP, races with A/B/C priority, availability, equipment, other sports, preferences - and saves it. Use when the athlete runs /setup, says "configurar", "set up my coach", "update my profile / actualizar ficha", reports a new FTP, weight, race, schedule or time off the bike, or when any other Cycling Training command finds no profile.
+description: First-time setup and profile updates for the Cycling Training coach. Checks connected data sources (Strava, Stas/Intervals.icu, Garmin), then builds the athlete profile step by step - language, units, FTP, races with A/B/C priority, availability, equipment, other sports, preferences - and saves it. Use when the athlete runs /setup, says "configurar", "set up my coach", "update my profile / actualizar ficha", reports a new FTP, weight, race, schedule, or when any other Cycling Training command finds no profile.
 ---
 
 # Setup
@@ -10,7 +10,7 @@ Build (or update) the athlete profile that every other Cycling Training command 
 ## Two modes
 
 - **Full setup** (no profile exists, or the athlete asks for it): run all steps below.
-- **Update** ("update my profile", "new FTP 255", "I added a race", "off the bike for 3 weeks", "actualizar ficha"): change only what the athlete names, show the changed lines, save, done. Do not re-run the whole wizard.
+- **Update** ("update my profile", "new FTP 255", "I added a race", "actualizar ficha"): change only what the athlete names, show the changed lines, save, done. Do not re-run the whole wizard.
 - In either mode, if you find the profile in more than one place and the copies disagree (for example a different race goal in memory and in the Project instructions), show both values, ask which is right, and update every copy.
 
 ## Before the questions
@@ -68,7 +68,7 @@ If they have no races yet, plan by goals (raise FTP, endurance) until they choos
 - What else they do: gym, swimming, running, hiking, other.
 - How often and on which days.
 - Should the coach program those sessions, or only fit them around the bike?
-- Any time off the bike coming up (travel, season break, no bike)? If so, when, and what can they do instead? (The reason is optional; never ask for medical details.)
+- Any time off the bike coming up (travel, season break, no bike, injury)? If so, tell them to use `/time-off` now or whenever it happens; do not collect it here.
 
 **Block 6 - Preferences**
 - Coach tone: gentle, direct, very demanding.

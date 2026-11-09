@@ -58,7 +58,10 @@ Updated: YYYY-MM-DD
 - … (what, how often, which days) · coach programs them | coach only fits them in
 
 **Current status** (optional, temporary; remove when it ends)
-- Off the bike: from … to … (or open-ended) · doing instead: running | gym | swimming | hiking | …
+- Off the bike: from … to … (or open-ended, with a check-in date) · reason: travel | break | no bike | injury/illness | not specified · doing instead: running | gym | swimming | hiking | …
+- Restrictions (injury/illness only): as the athlete reports them from their doctor or physio, in their own words
+
+Registered and closed with `/time-off`.
 
 **Connected sources**
 - Strava: yes/no · Stas (Intervals.icu): yes/no · Garmin: via Strava/Intervals sync

@@ -89,4 +89,4 @@ Coming back to the bike:
 - The first few rides are easy (Z1-Z2) and shorter than before the break.
 - Quality bike sessions return once the easy rides feel normal (RPE as expected for the watts, HR not drifting).
 - Test FTP after 2-3 easy rides, not on the first ride back. After several weeks away, expect FTP to be lower: use RPE and a conservative FTP for any intervals until the test.
-- When the planned end date of the break has passed, ask whether the athlete is back on the bike and update the profile.
+- When the planned end date (or the check-in date of an open-ended break) has passed, ask whether the athlete is back on the bike, and close the period with `/time-off`. If the athlete says at any point that the break is over ("ya terminé", "I'm recovered", "me dieron el alta"), do the same without waiting for the date.

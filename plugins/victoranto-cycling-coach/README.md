@@ -14,7 +14,7 @@ On claude.ai: Customize > Plugins > Add > Add marketplace, and enter `https://gi
 
 ## Use it
 
-Start with `/setup` inside a Claude Project to build your athlete profile and races. Then use `/plan-week` to plan your week, `/today` before training, `/analyze` after a ride, `/fueling` before a long ride or race, and `/review` at the end of the month. You can also talk to it in plain language and it picks the right command.
+Start with `/setup` inside a Claude Project to build your athlete profile and races. Then use `/plan-week` to plan your week, `/today` before training, `/analyze` after a ride, `/time-off` when you go off the bike (travel, break, injury) and when you are back, `/fueling` before a long ride or race, and `/review` at the end of the month. You can also talk to it in plain language and it picks the right command.
 
 ## Data
 

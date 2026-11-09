@@ -14,6 +14,7 @@ It speaks your language, uses your units, plans around your real week and your r
 | `/plan-week` | Plans the week around your availability, fatigue and races: key sessions, long ride, other sports, deloads and tapers, with watts, HR and RPE. Can write it to Intervals.icu after you confirm. |
 | `/today` | Shows today's planned session as planned, with execution notes and fueling. Only proposes a change when there is a reason: you are tired, ill, short on time, or recovery data is off. |
 | `/analyze` | Analyzes a ride or training day (power, HR, RPE, volume, elevation, fueling, load), compares it with the plan and decides the next session. Asks for RPE and what you ate if missing. Ask for a "summary" for a one-screen version. |
+| `/time-off` | Registers a period off the bike (travel, season break, no bike, injury or illness), plans around it with the sports you can do, and plans the return to the bike. Closes the period when you are back. |
 | `/fueling` | Builds a fueling plan for a long ride or race: carbs per hour, bottles, sodium, what to carry, where to resupply, before and after, and gut training for key races. |
 | `/review` | Reviews the last month (or block, or season): load trends, compliance, intensity, best efforts and W/kg, durability on long rides, progress towards your A race, and what to change next. |
 
