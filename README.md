@@ -75,7 +75,7 @@ Your data stays in your own Claude account. Nothing personal is stored in this r
 
 ## Privacy
 
-The plugin has no servers and sends nothing to the author or to third parties. Read the full [Privacy policy](PRIVACY.md).
+The plugin has no servers and sends nothing to the author or to third parties. Read the full [Privacy policy](https://github.com/victoranto/cycling-training/blob/main/PRIVACY.md).
 
 ## Repository layout
 

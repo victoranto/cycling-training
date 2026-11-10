@@ -20,7 +20,9 @@ Not sure what to do? Ask `/guide`. Start with `/setup` inside a Claude Project t
 
 The plugin reads your training from the Strava connector and from Intervals.icu through the Stas connector when you have connected them, and writes planned workouts to Intervals.icu only after you confirm. Your profile is kept in your own Claude account (memory and project instructions). The plugin stores nothing itself and sends nothing anywhere else.
 
-[Privacy policy](https://github.com/victoranto/cycling-training/blob/main/PRIVACY.md)
+## Privacy
+
+The plugin has no servers and sends nothing to the author or to third parties. Read the full [Privacy policy](https://github.com/victoranto/cycling-training/blob/main/PRIVACY.md).
 
 Not medical or dietary advice.
 

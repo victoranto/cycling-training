@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.7 - 2026-11-10
+
+- Removed the unrecognized `privacyPolicyUrl` key from `plugin.json`; the privacy policy is now linked from a "Privacy" section in both READMEs.
+
 ## 0.1.6 - 2026-11-10
 
 - Fix: every skill now states that its `references/` paths are relative to the skill's own folder, so Claude no longer resolves them from the plugin root and fails to find them.
