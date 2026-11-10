@@ -5,7 +5,13 @@ description: First-time setup and profile updates for the Cycling Training coach
 
 # Setup
 
-Build (or update) the athlete profile that every other Cycling Training command depends on. Read `references/coaching-principles.md`, `references/athlete-profile.md` and `references/data-sources.md` first.
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
+Build (or update) the athlete profile that every other Cycling Training command depends on. Read `references/coaching-principles.md`, `references/athlete-profile.md` and `references/data-sources.md` first (in this skill's folder).
 
 ## Two modes
 
@@ -77,7 +83,7 @@ If they have no races yet, plan by goals (raise FTP, endurance) until they choos
 
 ## Close
 
-1. Show the complete profile using the template in `references/athlete-profile.md` and ask the athlete to confirm or correct it.
+1. Show the complete profile using the template in `references/athlete-profile.md` (in this skill's folder) and ask the athlete to confirm or correct it.
 2. Save it: to Claude's memory if memory is available, and give the full profile block, ready to copy, to paste into the Project instructions. Say plainly if memory is not available so they know the pasted block is what persists.
 3. Start with something useful right away: offer the first week (`/plan-week`), with an FTP test in it if FTP is unknown or stale.
 

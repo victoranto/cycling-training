@@ -5,7 +5,13 @@ description: Reviews a longer training period - last month by default, or the la
 
 # Review a period
 
-Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and `references/evidence.md`.
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
+Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and `references/evidence.md` (in this skill's folder).
 
 ## 1. Period and data
 

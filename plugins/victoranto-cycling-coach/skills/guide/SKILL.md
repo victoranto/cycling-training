@@ -5,7 +5,13 @@ description: Lists what the Cycling Training coach can do, with one line per com
 
 # Guide
 
-Read `references/commands.md`. Optionally read `references/athlete-profile.md` to find the profile. This command only informs: it does not plan, analyze or change anything.
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
+Read `references/commands.md` (in this skill's folder). Optionally read `references/athlete-profile.md` (same folder) to find the profile. This command only informs: it does not plan, analyze or change anything.
 
 ## 1. Look for the profile
 

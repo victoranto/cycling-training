@@ -5,9 +5,15 @@ description: Registers, changes or closes a period off the bike (travel, season 
 
 # Time off the bike
 
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
 Manage the temporary "off the bike" status of the athlete profile. This command only handles the status and the transitions; the training rules (what to do meanwhile and how to come back) live in `references/zones-and-sessions.md` (Off the bike and coming back) and are applied by `/plan-week` and `/today`.
 
-Read `references/athlete-profile.md`, `references/zones-and-sessions.md` and `references/coaching-principles.md`. Load the profile first; if it does not exist, offer `/setup`.
+Read `references/athlete-profile.md`, `references/zones-and-sessions.md` and `references/coaching-principles.md` (in this skill's folder). Load the profile first; if it does not exist, offer `/setup`.
 
 ## Pick the mode
 

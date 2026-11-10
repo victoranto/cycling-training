@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 - 2026-11-10
+
+- Fix: every skill now states that its `references/` paths are relative to the skill's own folder, so Claude no longer resolves them from the plugin root and fails to find them.
+
 ## 0.1.5 - 2026-11-09
 
 - New `/guide` command: lists what the coach can do with one line per command and suggests where to start based on the profile (no profile, time off, upcoming race). The list lives in `shared/commands.md`.

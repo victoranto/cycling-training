@@ -5,7 +5,13 @@ description: Plans the athlete's training week (or next block) around their real
 
 # Plan the week
 
-Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and, for long rides, `references/fueling-guidelines.md`. Use `references/evidence.md` when you need to justify a choice.
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
+Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and, for long rides, `references/fueling-guidelines.md`. Use `references/evidence.md` when you need to justify a choice. All of these are in this skill's folder.
 
 ## 1. Inputs
 

@@ -5,7 +5,13 @@ description: Shows today's planned training session from the athlete's calendar 
 
 # Today's session
 
-Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and `references/fueling-guidelines.md`.
+> Paths in this skill are relative to this skill's own folder
+> (the "Base directory for this skill" shown when it loads),
+> e.g. `<base>/references/coaching-principles.md`.
+> Never resolve them from the plugin root. If a file is missing,
+> look inside this skill's folder before continuing; do not skip it.
+
+Read `references/coaching-principles.md`, `references/athlete-profile.md`, `references/data-sources.md`, `references/zones-and-sessions.md` and `references/fueling-guidelines.md` (in this skill's folder).
 
 The point of this command is to **show the plan, not to invent a new session every day.** A plan is only useful if it is stable.
 
